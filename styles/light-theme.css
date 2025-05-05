@@ -1,0 +1,23 @@
+:root {
+    --bg-color: #f9f9f9;
+    --text-color: #333;
+    --heading-color: #222;
+    --card-bg: #ffffff;
+    --card-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    --accent-color: #007BFF;
+    --accent-hover: #0056b3;
+    --footer-bg: #333;
+    --footer-text: #fff;
+    --nav-bg: rgba(255, 255, 255, 0.9);
+    --nav-text: #333;
+    --testimonial-bg: #fff;
+    --blog-card-bg: #fff;
+}
+
+.theme-toggle .dark-icon {
+    display: inline-block;
+}
+
+.theme-toggle .light-icon {
+    display: none;
+}

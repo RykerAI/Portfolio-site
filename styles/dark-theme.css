@@ -1,0 +1,23 @@
+:root {
+    --bg-color: #121212;
+    --text-color: #e0e0e0;
+    --heading-color: #ffffff;
+    --card-bg: #1e1e1e;
+    --card-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    --accent-color: #4da3ff;
+    --accent-hover: #75b6ff;
+    --footer-bg: #0a0a0a;
+    --footer-text: #e0e0e0;
+    --nav-bg: rgba(30, 30, 30, 0.9);
+    --nav-text: #e0e0e0;
+    --testimonial-bg: #1e1e1e;
+    --blog-card-bg: #1e1e1e;
+}
+
+.theme-toggle .dark-icon {
+    display: none;
+}
+
+.theme-toggle .light-icon {
+    display: inline-block;
+}
